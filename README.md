@@ -1,5 +1,7 @@
 # RDLM — supervised curriculum code release (EMNLP 2026)
 
+# Under code cleaning; expect full release on early October
+
 Code release for the EMNLP 2026 paper. A single small Transformer learns to
 solve math-expression tasks by **iteratively editing a token tape** — replace
 / delete / insert tokens, recurse into sub-problems via self-calls, and
