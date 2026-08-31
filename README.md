@@ -1,6 +1,6 @@
-# RDLM — supervised curriculum code release (EMNLP 2026)
+# Beyond Append-Only Decoding: A Recursive Edit-Based Encoder for Arithmetic Length Generalization (EMNLP 2026)
 
-# Under code cleaning; expect full release on early October
+# Code cleanup in progress; full release expected in early October
 
 Code release for the EMNLP 2026 paper. A single small Transformer learns to
 solve math-expression tasks by **iteratively editing a token tape** — replace
@@ -193,8 +193,8 @@ verification gates.
 
 ```bibtex
 @inproceedings{rdlm2026,
-  title     = {TODO — paper title},
-  author    = {TODO},
+  title     = Beyond Append-Only Decoding: A Recursive Edit-Based Encoder for Arithmetic Length Generalization,
+  author    = Bong Gyun Kang, Junyong Ahn, Jieun Byeon, Sungroh Yoon,
   booktitle = {Proceedings of EMNLP},
   year      = {2026}
 }
